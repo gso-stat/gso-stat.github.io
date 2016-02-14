@@ -1,20 +1,20 @@
 # Site title
-title: Crossing
+title: Purdue Statistics Graduate Student Organization
 
 # Tagline below the site title on post list pages
-tagline: Thoughts, stories and ideas.
+tagline: Student Seminars
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description:
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: "https://barepants.github.io"
+url: "https://gso-stat.github.io"
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: "/crossing-jekyll"
+baseurl: ""
 
 # The site cover image on the home page
-image: /crossing-jekyll/images/site-image.jpg
+image: /images/stat_logo.jpg
 
 # The shortname for your Disqus site to enable comments
 disqus_shortname:
@@ -26,28 +26,24 @@ google_analytics_tracking_id:
 # Site navigation
 nav:
   - title: "Home"
-    url:   "/crossing-jekyll/"
-  - title: "Github"
-    url:   "https://github.com/barepants/crossing-jekyll"
+    url:   "/"
+  - title: "About"
+    url:   "http://www.stat.purdue.edu/student_organizations/gso/index.php"
 
 
 # The links in the site footer
 footer_links:
-  - title: "RSS"
-    url:   "/crossing-jekyll/feed.xml"
-  - title: "GitHub"
-    url:   "https://github.com/barepants/crossing-jekyll"
+  - title: "Department of Statistics, Purdue University"
+    url:   "http://www.stat.purdue.edu/"
 
 
 # Author information
 authors:
-  johndoe:
-    name: John Doe
-    website: https://github.com/barepants
-    bio: An awesome bio # Author info at bottom of post only shows if bio exists
-    avatar: /crossing-jekyll/images/avatar.jpg
-  lewiscarroll:
-    name: Lewis Carroll
+  yixuan:
+    name: Yixuan Qiu
+    website: http://statr.me/
+    bio: Ph.D. Candidate, Purdue University
+    avatar: /images/avatar_yixuan.png
 
 
 # Extra Open Graph and Twitter Cards settings for social sharing
