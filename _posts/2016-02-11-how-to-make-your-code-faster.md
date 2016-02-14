@@ -21,4 +21,4 @@ In this talk I'll share some of my own experience in accelerating the code for s
 
 ## Slides
 
-Slides can be downloaded [here](#).
+Slides can be downloaded [here](/slides/yixuan/computing.html).
