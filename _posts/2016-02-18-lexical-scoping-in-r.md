@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lexical Scoping in R (Upcoming)"
+title:  "Lexical Scoping in R"
 author: mohit
 ---
 
