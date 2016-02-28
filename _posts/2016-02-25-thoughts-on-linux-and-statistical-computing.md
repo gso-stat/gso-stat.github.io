@@ -16,3 +16,8 @@ Next, many of you may be considering getting a UNIX-based system on your persona
 - Date: Thursday, February 25, 2016
 - Time: 4:30 pm - 5:20 pm
 - Location: Math Library Lounge
+
+## Slides
+
+Slides can be downloaded
+[here](/slides/ryan/Thoughts-on-Linux-and-Statistical-Computing.pdf).
