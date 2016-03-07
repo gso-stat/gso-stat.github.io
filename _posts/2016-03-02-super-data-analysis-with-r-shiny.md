@@ -15,3 +15,7 @@ Shiny by RStudio levels up your data analysis and consulting work by providing a
 - Date: Thursday, March 03, 2016
 - Time: 4:30 pm - 5:20 pm
 - Location: Math Library Lounge
+
+## Slides
+
+Slides can be downloaded [here](/slides/patrick/super-data-analysis-w-rshiny.pdf).
