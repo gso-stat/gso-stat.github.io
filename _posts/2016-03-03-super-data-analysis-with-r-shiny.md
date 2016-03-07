@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Super Data Analysis with R Shiny (Upcoming)"
+title:  "Super Data Analysis with R Shiny"
 author: patrick
 ---
 
