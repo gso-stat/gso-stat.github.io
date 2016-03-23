@@ -12,3 +12,8 @@ In this talk, I will first introduce the basic knowledge of Hadoop, and also the
 - Date: Thursday, March 10, 2016
 - Time: 4:30 pm - 5:20 pm
 - Location: Math Library Lounge
+
+## Slides
+
+Slides can be downloaded [here](/slides/xiaosu/Hadoop2-basic-and-Rhipe-package.pdf).
+
