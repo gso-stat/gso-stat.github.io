@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Genomic Control for Association Studies: A Literature Review (Upcoming)"
+title:  "Genomic Control for Association Studies: A Literature Review"
 author: will
 ---
 
