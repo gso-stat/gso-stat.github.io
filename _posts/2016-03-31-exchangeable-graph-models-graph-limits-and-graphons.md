@@ -37,3 +37,7 @@ Gao, C., Lu, Y. and Zhou, H. H. (2015). Rate-Optimal Graphon Estimation.
 - Date: Thursday, March 31, 2016
 - Time: 4:30 pm - 5:20 pm
 - Location: Math Library Lounge
+
+## Slides
+
+Slides can be downloaded [here](/slides/jiasen/graphons.pdf).
