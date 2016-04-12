@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tessera Stack for Big Data Computing (Upcoming)"
+title:  "Tessera Stack for Big Data Computing"
 author: barret
 ---
 
@@ -15,3 +15,7 @@ The Tessera computational environment is powered by a statistical approach, Divi
 - Date: Thursday, April 7, 2016
 - Time: 4:30 pm - 5:20 pm
 - Location: Math Library Lounge
+
+## Slides
+
+Slides can be viewed [online](/slides/barret/slides-tessera-purdue-2016-4-7.html).
